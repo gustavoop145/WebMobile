@@ -1,0 +1,95 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cabecalho h1 {
+    font-size: 32px;
+}
+
+.color1 {
+    color:#fb7cb9;
+    font-weight: bold;
+}
+
+.color2 {
+    color: #28c7fa;
+    font-weight: bold;
+}
+
+
+.button_SaibaMais {
+    background-color: #fb7cb9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.button_SaibaMais:hover {
+    background-color: #28c7fa;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.text-section {
+    width: 50%;
+}
+
+.text-section h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.text-section h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #888;
+}
+
+.text-section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.button_confira {
+    background-color: #fb7cb9;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 20px;
+    transition: 0.3s;
+}
+
+.button_confira:hover {
+    background-color: #28c7fa;
+}
+
+.image_section img{
+    width: 450px;
+    border-radius: 10px;
+}
