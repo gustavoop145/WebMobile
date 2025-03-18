@@ -6,11 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Laura Mendonça</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        .button_SaibaMais {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
 </head>
 <body>
     <header class="cabecalho">
         <h1><span class="color1">LAURA</span> <span class="color2">MENDONÇA</span></h1>
-        <button class="button_SaibaMais">Saiba Mais</button>
+        <button class="button_SaibaMais" id="btnSaibaMais">Saiba Mais</button>
     </header>
 
     <main class="container">
@@ -33,5 +43,20 @@
             <img src="mulheres-ia.webp" alt="Mulheres na tecnologia">
         </section>
     </main>
+
+    <script>
+         window.onload = function() {
+            alert("Bem-vindo ao universo de Laura Mendonça! Explore e inspire-se!");
+        };
+        const button = document.getElementById('btnSaibaMais');
+
+        button.addEventListener('mouseenter', function() {
+            document.body.style.backgroundColor = '#f0f0f0'; 
+        });
+
+        button.addEventListener('mouseleave', function() {
+            document.body.style.backgroundColor = ''; 
+        });
+    </script>
 </body>
 </html>
