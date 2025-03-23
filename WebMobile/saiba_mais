@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Projetos - Laura Mendonça</title>
+        <link rel="stylesheet" href="styleSaibaMais.css"> 
+    </head>
+
+    <body>
+        <div class="cabecalho">
+            <h1><span class="color1">Laura</span> <span class="color2">Mendonça</span></h1>
+            <a href="index.html">
+            <button class="button_SaibaMais">Voltar ao Início</button>
+            </a>
+        </div>
+
+        <div class="container">
+            <div class="text-section">
+                <h1>Saiba Mais sobre Inteligência Artificial</h1>
+                <h2>O que é Inteligência Artificial?</h2>
+                <p>A Inteligência Artificial (IA) é um campo da tecnologia que busca desenvolver 
+                    sistemas capazes de simular a inteligência humana....</p>
+                <h2>A Importância de Estudar IA</h2>
+                <p>Atualmente, a IA está presente em diversas áreas, desde assistentes virtuais até
+                    diagnósticos médicos.</p>
+            </div>
+            <div class="image_section">
+                <img src="imagem1.webp" alt="Imagem IA">
+            </div>
+        </div>
+
+        <div class="container">
+
+            <div class="image_section">
+                <img src="imagem2.avif" alt="Imagem IA">
+            </div>
+
+            <div class="text-section2">
+                <h2>Como Começar a Estudar IA?</h2>
+
+                <p> - Aprender sobre Algoritmos e Lógica de Programação.<br>
+                    - Estudar Machine Learning.<br>
+                    - Explorar Linguagens de Programação como Python.<br>
+                    - Praticar com Projetos Reais.</p>
+            </div>
+            </div>
+
+                <h2>O Futuro da Inteligência Artificial</h2>
+                <h3>O futuro da IA é uma revolução em constante crescimento. À medida que a tecnologia avança,
+                    a inteligência artificial promete transformar indústrias e melhorar nossas vidas, 
+                    trazendo soluções mais rápidas, precisas e personalizadas. Estamos à porta de uma nova era,
+                    onde máquinas inteligentes irão expandir as fronteiras do possível, criando um mundo mais
+                    conectado e inovador.
+
+                </h3>
+    </body>
+</html>
 
