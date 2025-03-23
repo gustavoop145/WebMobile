@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetos - Laura Mendonça</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+
+<body>
+    <div class="cabecalho">
+        <h1><span class="color1">Laura</span> <span class="color2">Mendonça</span></h1>
+        <a href="index.html">
+        <button class="button_SaibaMais">Voltar ao Início</button>
+        </a>
+    </div>
+
+    <div class="container">
+        <div class="text-section">
+            <h1>AI Vision Analytics</h1>
+            <h2>Inovação para o Varejo</h2>
+            <p>Um sistema de inteligência artificial que analisa o comportamento dos clientes dentro das lojas físicas,
+                fornecendo dados em tempo real sobre fluxo de pessoas e preferências. A solução ajudou redes varejistas a
+                aumentarem a conversão em até 25%.</p>
+            <button class="button_confira">Saiba Mais</button>
+        </div>
+        <div class="image_section">
+            <img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=800&q=80"
+                alt="AI Vision Analytics">
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="text-section">
+            <h1>Blue Mind</h1>
+            <h2>Documentário Inspirador</h2>
+            <p>Uma produção que une o mergulho com o mundo dos negócios, mostrando como a conexão com o mar ajuda
+                empreendedores a lidarem com o estresse e tomarem decisões melhores. Disponível nas principais plataformas
+                de streaming.</p>
+            <button class="button_confira">Assista Agora</button>
+        </div>
+        <div class="image_section">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+                alt="Blue Mind Documentário">
+        </div>
+    </div>
+</body>
+
+</html>
