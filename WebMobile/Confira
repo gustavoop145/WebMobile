@@ -26,7 +26,7 @@
             <button class="button_confira">Saiba Mais</button>
         </div>
         <div class="image_section">
-            <img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=800&q=80"
+            <img src="download.jpg"
                 alt="AI Vision Analytics">
         </div>
     </div>
@@ -41,7 +41,7 @@
             <button class="button_confira">Assista Agora</button>
         </div>
         <div class="image_section">
-            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+            <img src="bluemindapp_cover.jpg"
                 alt="Blue Mind Documentário">
         </div>
     </div>
